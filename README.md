@@ -2,8 +2,8 @@
 
 ##
 
-<h5>🖥️ Estudante de T.I</h5>
-<h5>🎨 Desenhista</h5>
+<h3>🖥️ Estudante de T.I</h3>
+<h3>🎨 Desenhista</h3>
 
 
 <div style="display: inline_block"><br>
